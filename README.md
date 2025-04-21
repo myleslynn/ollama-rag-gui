@@ -52,8 +52,8 @@ The application implements a complete Retrieval-Augmented Generation (RAG) workf
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ollama-rag-desktop.git
-   cd ollama-rag-desktop
+   git clone https://github.com/yourusername/ollama-rag-gui.git
+   cd ollama-rag-gui
    ```
 
 2. Install the required dependencies:
