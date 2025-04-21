@@ -8,8 +8,6 @@
 
 A powerful desktop application for building and querying your personal knowledge base using Ollama's language models. This application enables document retrieval with semantic search and AI-powered responses through a user-friendly graphical interface.
 
-![Ollama RAG GUI Screenshot](https://via.placeholder.com/800x450?text=Ollama+RAG+GUI+Screenshot) <!-- Replace with an actual screenshot of your app -->
-
 ## 🌟 Features
 
 - **Seamless Document Integration**: Import and process both Markdown (.md) and text (.txt) files
