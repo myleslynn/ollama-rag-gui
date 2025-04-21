@@ -1,4 +1,4 @@
-# Ollama RAG Desktop Application
+# Ollama RAG GUI
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.7+-blue.svg" alt="Python Version">
